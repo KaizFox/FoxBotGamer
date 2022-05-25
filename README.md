@@ -1,6 +1,6 @@
 # FoxBotGamer
-FoxBot Gamer is FoxBot game app, i decided to make this because there was a poll and most user chose `Game App`.
-FoxBot Gamer now is currently building with ElectronJS (NodeJS Framework)
+Just a little game all. </br>
+FoxBot Gamer is currently building by ElectronJS (NodeJS Framework)
 
 - You can install the latest version [here](https://github.com/KaizFox/FoxBotGamer/releases/tag/1.0.0).
 - View all versions [here](https://github.com/KaizFox/FoxBotGamer/releases). Download older version if you want but it might have some bugs.
