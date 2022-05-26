@@ -6,7 +6,7 @@ FoxBot Gamer just a little game app is building by `ElectronJS ~ A NodeJS Framew
 
 ## Change log
 - 1.0: Added `Sudoku` and `Snake` game. Download below
-  - [Sudoku](https://github.com/KaizFox/FoxBotGamer/releases/download/1.0.0/sudoku.exe)
+  - [Sudoku](https://github.com/KaizFox/FoxBotGamer/releases/download/1.0.0/FoxBotGamer.Sudoku.Setup.exe)
   - [Snake](https://github.com/KaizFox/FoxBotGamer/releases/download/1.0.0/snake.exe) (Bugs detected so now we are fixing it, please wait)
 
 ## Developers
